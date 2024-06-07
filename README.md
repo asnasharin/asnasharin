@@ -11,3 +11,6 @@
 
 [LinkedIn](www.linkedin.com/in/hasna-sharin-191bb0264)  
 <!--[Portfolio](https://yourportfolio.com) -->
+
+### Languages and Tools
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
